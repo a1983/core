@@ -73,6 +73,7 @@ FLOWS = [
     "ecobee",
     "econet",
     "efergy",
+    "elering_hourly_pricing",
     "elgato",
     "elkm1",
     "emonitor",
